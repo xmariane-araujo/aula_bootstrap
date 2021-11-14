@@ -1,2 +1,2 @@
 # aula_bootstrap
-Utilizando Nootstrap durante aula do Bootcamp HTML Web Developer da DIO.
+Utilizando Bootstrap durante aula do Bootcamp HTML Web Developer da DIO.
